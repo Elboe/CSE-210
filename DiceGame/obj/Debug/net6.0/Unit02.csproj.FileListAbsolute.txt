@@ -1,0 +1,15 @@
+/Users/eric/School/CSE210/DiceGame/obj/Debug/net6.0/Unit02.csproj.AssemblyReference.cache
+/Users/eric/School/CSE210/DiceGame/obj/Debug/net6.0/Unit02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eric/School/CSE210/DiceGame/obj/Debug/net6.0/Unit02.AssemblyInfoInputs.cache
+/Users/eric/School/CSE210/DiceGame/obj/Debug/net6.0/Unit02.AssemblyInfo.cs
+/Users/eric/School/CSE210/DiceGame/obj/Debug/net6.0/Unit02.csproj.CoreCompileInputs.cache
+/Users/eric/School/CSE210/DiceGame/bin/Debug/net6.0/Unit02
+/Users/eric/School/CSE210/DiceGame/bin/Debug/net6.0/Unit02.deps.json
+/Users/eric/School/CSE210/DiceGame/bin/Debug/net6.0/Unit02.runtimeconfig.json
+/Users/eric/School/CSE210/DiceGame/bin/Debug/net6.0/Unit02.dll
+/Users/eric/School/CSE210/DiceGame/bin/Debug/net6.0/Unit02.pdb
+/Users/eric/School/CSE210/DiceGame/obj/Debug/net6.0/Unit02.dll
+/Users/eric/School/CSE210/DiceGame/obj/Debug/net6.0/refint/Unit02.dll
+/Users/eric/School/CSE210/DiceGame/obj/Debug/net6.0/Unit02.pdb
+/Users/eric/School/CSE210/DiceGame/obj/Debug/net6.0/Unit02.genruntimeconfig.cache
+/Users/eric/School/CSE210/DiceGame/obj/Debug/net6.0/ref/Unit02.dll

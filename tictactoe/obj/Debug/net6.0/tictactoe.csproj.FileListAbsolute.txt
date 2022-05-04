@@ -1,0 +1,15 @@
+/Users/eric/School/CSE210/tictactoe/bin/Debug/net6.0/tictactoe
+/Users/eric/School/CSE210/tictactoe/bin/Debug/net6.0/tictactoe.deps.json
+/Users/eric/School/CSE210/tictactoe/bin/Debug/net6.0/tictactoe.runtimeconfig.json
+/Users/eric/School/CSE210/tictactoe/bin/Debug/net6.0/tictactoe.dll
+/Users/eric/School/CSE210/tictactoe/bin/Debug/net6.0/tictactoe.pdb
+/Users/eric/School/CSE210/tictactoe/obj/Debug/net6.0/tictactoe.csproj.AssemblyReference.cache
+/Users/eric/School/CSE210/tictactoe/obj/Debug/net6.0/tictactoe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eric/School/CSE210/tictactoe/obj/Debug/net6.0/tictactoe.AssemblyInfoInputs.cache
+/Users/eric/School/CSE210/tictactoe/obj/Debug/net6.0/tictactoe.AssemblyInfo.cs
+/Users/eric/School/CSE210/tictactoe/obj/Debug/net6.0/tictactoe.csproj.CoreCompileInputs.cache
+/Users/eric/School/CSE210/tictactoe/obj/Debug/net6.0/tictactoe.dll
+/Users/eric/School/CSE210/tictactoe/obj/Debug/net6.0/refint/tictactoe.dll
+/Users/eric/School/CSE210/tictactoe/obj/Debug/net6.0/tictactoe.pdb
+/Users/eric/School/CSE210/tictactoe/obj/Debug/net6.0/tictactoe.genruntimeconfig.cache
+/Users/eric/School/CSE210/tictactoe/obj/Debug/net6.0/ref/tictactoe.dll

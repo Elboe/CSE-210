@@ -1,0 +1,15 @@
+/Users/eric/School/CSE210/Solo Prep 2/obj/Debug/net6.0/Solo Prep 2.csproj.AssemblyReference.cache
+/Users/eric/School/CSE210/Solo Prep 2/obj/Debug/net6.0/Solo Prep 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eric/School/CSE210/Solo Prep 2/obj/Debug/net6.0/Solo Prep 2.AssemblyInfoInputs.cache
+/Users/eric/School/CSE210/Solo Prep 2/obj/Debug/net6.0/Solo Prep 2.AssemblyInfo.cs
+/Users/eric/School/CSE210/Solo Prep 2/obj/Debug/net6.0/Solo Prep 2.csproj.CoreCompileInputs.cache
+/Users/eric/School/CSE210/Solo Prep 2/bin/Debug/net6.0/Solo Prep 2
+/Users/eric/School/CSE210/Solo Prep 2/bin/Debug/net6.0/Solo Prep 2.deps.json
+/Users/eric/School/CSE210/Solo Prep 2/bin/Debug/net6.0/Solo Prep 2.runtimeconfig.json
+/Users/eric/School/CSE210/Solo Prep 2/bin/Debug/net6.0/Solo Prep 2.dll
+/Users/eric/School/CSE210/Solo Prep 2/bin/Debug/net6.0/Solo Prep 2.pdb
+/Users/eric/School/CSE210/Solo Prep 2/obj/Debug/net6.0/Solo Prep 2.dll
+/Users/eric/School/CSE210/Solo Prep 2/obj/Debug/net6.0/refint/Solo Prep 2.dll
+/Users/eric/School/CSE210/Solo Prep 2/obj/Debug/net6.0/Solo Prep 2.pdb
+/Users/eric/School/CSE210/Solo Prep 2/obj/Debug/net6.0/Solo Prep 2.genruntimeconfig.cache
+/Users/eric/School/CSE210/Solo Prep 2/obj/Debug/net6.0/ref/Solo Prep 2.dll
