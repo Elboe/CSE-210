@@ -1,0 +1,15 @@
+/Users/eric/School/CSE210/HiLo/obj/Debug/net6.0/HiLo.csproj.AssemblyReference.cache
+/Users/eric/School/CSE210/HiLo/obj/Debug/net6.0/HiLo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eric/School/CSE210/HiLo/obj/Debug/net6.0/HiLo.AssemblyInfoInputs.cache
+/Users/eric/School/CSE210/HiLo/obj/Debug/net6.0/HiLo.AssemblyInfo.cs
+/Users/eric/School/CSE210/HiLo/obj/Debug/net6.0/HiLo.csproj.CoreCompileInputs.cache
+/Users/eric/School/CSE210/HiLo/bin/Debug/net6.0/HiLo
+/Users/eric/School/CSE210/HiLo/bin/Debug/net6.0/HiLo.deps.json
+/Users/eric/School/CSE210/HiLo/bin/Debug/net6.0/HiLo.runtimeconfig.json
+/Users/eric/School/CSE210/HiLo/bin/Debug/net6.0/HiLo.dll
+/Users/eric/School/CSE210/HiLo/bin/Debug/net6.0/HiLo.pdb
+/Users/eric/School/CSE210/HiLo/obj/Debug/net6.0/HiLo.dll
+/Users/eric/School/CSE210/HiLo/obj/Debug/net6.0/refint/HiLo.dll
+/Users/eric/School/CSE210/HiLo/obj/Debug/net6.0/HiLo.pdb
+/Users/eric/School/CSE210/HiLo/obj/Debug/net6.0/HiLo.genruntimeconfig.cache
+/Users/eric/School/CSE210/HiLo/obj/Debug/net6.0/ref/HiLo.dll
