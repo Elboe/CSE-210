@@ -1,0 +1,15 @@
+/Users/eric/School/CSE210/Jumper/bin/Debug/net6.0/Jumper
+/Users/eric/School/CSE210/Jumper/bin/Debug/net6.0/Jumper.deps.json
+/Users/eric/School/CSE210/Jumper/bin/Debug/net6.0/Jumper.runtimeconfig.json
+/Users/eric/School/CSE210/Jumper/bin/Debug/net6.0/Jumper.dll
+/Users/eric/School/CSE210/Jumper/bin/Debug/net6.0/Jumper.pdb
+/Users/eric/School/CSE210/Jumper/obj/Debug/net6.0/Jumper.csproj.AssemblyReference.cache
+/Users/eric/School/CSE210/Jumper/obj/Debug/net6.0/Jumper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eric/School/CSE210/Jumper/obj/Debug/net6.0/Jumper.AssemblyInfoInputs.cache
+/Users/eric/School/CSE210/Jumper/obj/Debug/net6.0/Jumper.AssemblyInfo.cs
+/Users/eric/School/CSE210/Jumper/obj/Debug/net6.0/Jumper.csproj.CoreCompileInputs.cache
+/Users/eric/School/CSE210/Jumper/obj/Debug/net6.0/Jumper.dll
+/Users/eric/School/CSE210/Jumper/obj/Debug/net6.0/refint/Jumper.dll
+/Users/eric/School/CSE210/Jumper/obj/Debug/net6.0/Jumper.pdb
+/Users/eric/School/CSE210/Jumper/obj/Debug/net6.0/Jumper.genruntimeconfig.cache
+/Users/eric/School/CSE210/Jumper/obj/Debug/net6.0/ref/Jumper.dll
